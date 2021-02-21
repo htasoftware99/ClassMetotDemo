@@ -30,6 +30,7 @@ namespace ClassMetotDemo
             musteriManager.Silme(musteri1);
 
 
+
         }
     }
 }
