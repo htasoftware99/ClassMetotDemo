@@ -29,8 +29,6 @@ namespace ClassMetotDemo
             musteriManager.Ekle(musteri1);
             musteriManager.Silme(musteri1);
 
-
-
         }
     }
 }
